@@ -12,6 +12,7 @@ This game class puts all the RPGs together to create a big RPG game. This game s
 -Changing the player model based on the mouse position so it seems like it's looking at the mouse
 -Ammo system
 -Weapon rotation
+-Health bar UI
 
 Some of the things I learned is how to track the player's mouse within unity so that I can make a game do specific things based on where the mouse is. Additionally I
 learned about scriptable objects so that I can make object based coding, and make it so that things inherit from one another.
